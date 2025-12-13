@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natnael taye</h1>
-<h3 align="center">A passionate Full stack developer from Ethiopia</h3>
+<h3 align="center">Full stack developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [AbroLink](https://github.com/natnaelTy/AbroLink)
 
