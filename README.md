@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **golang**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-lemon-nine-59.vercel.app/](https://portfolio-website-lemon-nine-59.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-website-4l3n.vercel.app/
 
 - 💬 Ask me about **reactjs**
 
